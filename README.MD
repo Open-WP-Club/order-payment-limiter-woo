@@ -43,6 +43,22 @@ The plugin hooks into:
 - `wc_stripe_process_charge_failed` (Payment Plugins)
 - `woocommerce_payment_failed` (Fallback)
 
+<!-- OPENWPCLUB_SPONSORS_START -->
+## Open-source supporters
+
+These companies help keep Open WP Club plugins free and maintained.
+
+[![Open WP Club supporters](https://openwpclub.com/sponsorship/supporters.png)](https://openwpclub.com/sponsors/)
+
+## Sponsored placements
+
+Clearly labelled promotional campaigns, separate from our supporters.
+
+[![Open WP Club sponsored placements](https://openwpclub.com/sponsorship/repos/order-payment-limiter-woo/campaigns.png)](https://openwpclub.com/advertise/)
+
+[Support our work](https://openwpclub.com/sponsors/) · [Discuss a campaign](https://openwpclub.com/advertise/)
+<!-- OPENWPCLUB_SPONSORS_END -->
+
 ## License
 
 GPL v2 or later
